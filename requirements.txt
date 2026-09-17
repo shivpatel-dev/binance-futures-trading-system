@@ -1,0 +1,5 @@
+python-binance==1.0.37
+Telethon>=1.36,<2
+python-dotenv>=1.0,<2
+requests>=2.31,<3
+pytest>=8,<10
